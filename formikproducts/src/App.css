@@ -1,0 +1,48 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.Header{
+  display: flex;
+  padding: 25px 0;
+  justify-content: space-between;
+  background-color: aqua;
+  
+}
+
+.link1{
+  margin-left: 35px;
+  font-size:30px;
+  color: #222;
+  text-decoration: none;
+}
+
+.link2{
+  margin-right: 35px;
+  font-size:20px;
+  color: #222;
+  text-decoration: none;
+}
+
+h1{
+  text-align: center;
+}
+
+form{
+  margin-top: 3rem 0;
+}
+
+input{
+  margin: 15px 0;
+
+}
+.all{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+img{
+  width: 50%;
+}
